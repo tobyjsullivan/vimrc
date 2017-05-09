@@ -12,4 +12,5 @@ Add the .vimrc file to your profile directory (change the checkout directory as 
 
 ```sh
 ln -s ~/projects/vimrc/.vimrc ~/.vimrc
+ln -s ~/projects/vimrc/.vim ~/.vim
 ```
