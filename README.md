@@ -11,6 +11,8 @@ git clone https://github.com/tobyjsullivan/vimrc.git
 Add the .vimrc file to your profile directory (change the checkout directory as needed):
 
 ```sh
+rm -rf ~/.vim
+rm -f ~/.vimrc
 ln -s ~/projects/vimrc/.vimrc ~/.vimrc
 ln -s ~/projects/vimrc/.vim ~/.vim
 ```
