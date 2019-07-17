@@ -24,7 +24,11 @@ documentation](https://github.com/Valloric/YouCompleteMe/blob/master/README.md#i
 
 ## Installing plugins
 
-Pathogen is used for plugin management.
+```
+TODO: Read up on [Vundle](https://github.com/VundleVim/Vundle.vim/) and update to use that.
+```
+
+~Pathogen is used for plugin management.~
 
 Install plugins by checking them out to the `.vim/bundles` directory. 
 E.g., `git clone https://github.com/junegunn/fzf ~/.vim/bundles/fzf`
